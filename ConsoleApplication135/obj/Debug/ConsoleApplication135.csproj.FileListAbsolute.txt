@@ -1,0 +1,8 @@
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication135\ConsoleApplication135\bin\Debug\ConsoleApplication135.exe.config
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication135\ConsoleApplication135\bin\Debug\People.xml
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication135\ConsoleApplication135\bin\Debug\ConsoleApplication135.exe
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication135\ConsoleApplication135\bin\Debug\ConsoleApplication135.pdb
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication135\ConsoleApplication135\obj\Debug\ConsoleApplication135.csprojResolveAssemblyReference.cache
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication135\ConsoleApplication135\obj\Debug\ConsoleApplication135.exe
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication135\ConsoleApplication135\obj\Debug\ConsoleApplication135.pdb
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication135\ConsoleApplication135\bin\Debug\Cars.xml

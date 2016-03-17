@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Garage>
+  <Cars>
+    <Car>
+      <Make>Lamborghini</Make>
+      <Model>Aventador</Model>
+      <Year>2016</Year>
+    </Car>
+    <Car>
+      <Make>Bugatti</Make>
+      <Model>Veyron</Model>
+      <Year>2014</Year>
+    </Car>
+  </Cars>
+  <Tools>
+    <Tool type="hammer" brand="stanley" />
+    <Tool type="screwdriver" brand="Black and Decker" />
+  </Tools>
+</Garage>

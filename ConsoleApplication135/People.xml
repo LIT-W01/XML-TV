@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<People>
+  <Person>
+    <FirstName>Avrumi</FirstName>
+    <LastName>Friedman</LastName>
+    <Age>34</Age>
+  </Person>
+  <Person>
+    <FirstName>John</FirstName>
+    <LastName>Doe</LastName>
+    <Age>45</Age>
+  </Person>
+  <Person>
+    <FirstName>Michael</FirstName>
+    <LastName>Jordan</LastName>
+    <Age>55</Age>
+  </Person>
+</People>

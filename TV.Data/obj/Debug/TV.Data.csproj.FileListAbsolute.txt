@@ -1,0 +1,6 @@
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication135\TV.Data\bin\Debug\TV.Data.dll.config
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication135\TV.Data\bin\Debug\TV.Data.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication135\TV.Data\bin\Debug\TV.Data.pdb
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication135\TV.Data\obj\Debug\TV.Data.csprojResolveAssemblyReference.cache
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication135\TV.Data\obj\Debug\TV.Data.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication135\TV.Data\obj\Debug\TV.Data.pdb
